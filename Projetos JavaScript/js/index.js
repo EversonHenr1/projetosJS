@@ -12,10 +12,11 @@ window.onload = function (){
         //Projeto para Criar listas
         let lista = ["./project/imagem_lista.png","Lista de Tarefas","https://github.com/EversonHenr1/lista_JS","https://eversonhenr1.github.io/lista_JS/lista_js/index.html"]
         let cal = ["./project/imagem_cal.png","Calculadora + Historico","https://github.com/EversonHenr1/calculadora","https://eversonhenr1.github.io/calculadora/calculadora/"]
-        
+        let rel = ["./project/imagem_relogio.png","Relogio com Fuso horarios","https://github.com/EversonHenr1/relogio","https://eversonhenr1.github.io/relogio/Relogio/"]
         //Inserir projetos na Array
         projArr.push(lista)
         projArr.push(cal)
+        projArr.push(rel)
         
 
     //Inserir classe em todos os projetos
